@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Byit_Admin!</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="owner_token">CAK3GsuqCkfkegKkSSUvao2jnpC3</string>
+    <string name="generic_error">An Internal Error Occur</string>
+    <string name="google_web_client">316249604660-c60583cki5o8aabonjggtk1tosmuuvs1.apps.googleusercontent.com</string>
+    <string name="guest_image_url">https://firebasestorage.googleapis.com/v0/b/grocery-list-app-7692d.appspot.com/o/user_profile_pics%2Fguest.png?alt=media&amp;token=440b3eb7-fbc5-431f-8664-c85622c5fdac</string>
+    <string name="test_ad_unit_id_native_ad">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="name">NAME</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="continue_text">Continue</string>
+    <string name="average_price">Avg Price: %s</string>
+    <string name="quantity_type">*Quantity In: %s</string>
+    <string name="already_added_to_cart">*In Cart</string>
+    <string name="file_name">File: %s</string>
+    <string name="date_uploaded">Date Uploaded: %s</string>
+    <string name="file_size">Size: %s</string>
+    <string name="file_type">Type: %s</string>
+    <string name="ready_for_upload">Ready For Take Off 😉</string>
+    <string name="spendings">Spending\'s</string>
+    <string name="bills">Bill\'s</string>
+    <string name="yearly_analysis">Yearly Chart Analysis:</string>
+    <string name="total_spending">Total: %s</string>
+    <string name="average_spending">Average Spending\'s: %s</string>
+    <string name="chosen_month">Chosen Month: %s</string>
+    <string name="email_sent">Email Sent... Check your Email</string>
+    <string name="stay_anonymous">or Stay Anonymous</string>
+    <string name="dear_user">Dear User,\n\n</string>
+    <string name="want_to_be_admin">Want To Be Admin 🧐??\n\n</string>
+    <string name="use_real_email">If so kindly log in with a real, usable email account, which is active for communication purposes.\n</string>
+    <string name="request_button_text">Please make sure you click on the </string>
+    <string name="already_request_button_text">Since you have already </string>
+    <string name="once_you_submit">Once requested, we may respond within </string>
+    <string name="days">15 days</string>
+    <string name="appolize_not_accepting">. If not, we apologize that we may not be accepting requests at present.\n\n</string>
+    <string name="after_submitting_request">Once you have submitted a request, you will receive an email from us at the email you used to log in. After completing all communication steps, we will enable admin access. Finally, you need to log out and log back in.\n\n</string>
+    <string name="dont_misuse_admin_access">*Please do not misuse admin access.</string>
+    <string name="main_rotated_text">A Letter From ByIt!</string>
+    <string name="request_button">request button 👈 Here.</string>
+
+
+</resources>
