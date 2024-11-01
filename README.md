@@ -34,7 +34,29 @@ To gain admin access, users must:
 
 ### Portrait Mode Overview
 
-<table align="center"> <tr> <td align="center"><img src="images/admin_welcome_screen.jpg" width="250"/><br /><strong>Welcome Screen</strong></td> <td align="center"><img src="images/admin_login_screen.jpg" width="250"/><br /><strong>Login Screen</strong></td> <td align="center"><img src="images/admin_upload_screen_1.jpg" width="250"/><br /><strong>Upload Screen 1</strong></td> </tr> <tr> <td align="center"><img src="images/admin_upload_screen_2.jpg" width="250"/><br /><strong>Upload Screen 2</strong></td> </tr> </table>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/admin_welcome_screen.jpg" width="250"/><br />
+      <strong>Welcome Screen</strong>
+    </td>
+    <td align="center">
+      <img src="images/admin_login_screen.jpg" width="250"/><br />
+      <strong>Login Screen</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/admin_upload_screen_1.jpg" width="250"/><br />
+      <strong>Upload Screen 1</strong>
+    </td>
+    <td align="center">
+      <img src="images/admin_upload_screen_2.jpg" width="250"/><br />
+      <strong>Upload Screen 2</strong>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -149,6 +171,3 @@ For any questions or support, please contact:
 
 - **Name:** Sai Pavan Kiran
 - **GitHub:** [SaiPavanKiran](https://github.com/SaiPavanKiran)
-
-
-
